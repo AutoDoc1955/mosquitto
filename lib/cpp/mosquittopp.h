@@ -1,4 +1,6 @@
 /*
+20170912 rbw: Forked 
+
 Copyright (c) 2010-2013 Roger Light <roger@atchoo.org>
 
 All rights reserved. This program and the accompanying materials
